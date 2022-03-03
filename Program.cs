@@ -21,6 +21,14 @@ namespace TestProject
             Console.WriteLine("But didn't liked beimg" + charcaterAge);
 
             Console.ReadLine();
+
+            //DataTypes
+            string phrase = "Test Project";
+            char grade = 'a';
+            int number = 30;
+            bool isFemale = true;
+
+
         }
     }
 }
